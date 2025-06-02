@@ -15,15 +15,14 @@ Docker is an open-source platform that packages applications and their dependenc
 
 ## 🗂️ Table of Contents
 
-1. [Verify Installation](#-verify-installation)
-2. [Basic Docker Commands](#-basic-docker-commands)
-3. [Image Management](#-image-management)
-4. [Container Management](#-container-management)
-5. [Docker Compose](#-docker-compose)
-6. [Maintenance & Cleanup](#-maintenance--cleanup)
-7. [Production Tips](#-production-tips)
-8. [Troubleshooting & Debugging](#-troubleshooting--debugging)
-9. [FAQ](#-faq)
+1. [✅ Verify Installation](#-verify-installation)
+2. [🔧 Basic Docker Commands](#-basic-docker-commands)
+3. [📦 Image Management](#-image-management)
+4. [🚀 Container Management](#-container-management)
+5. [🐙 Docker Compose](#-docker-compose)
+6. [🧹 Maintenance & Cleanup](#-maintenance--cleanup)
+7. [🐞 Troubleshooting & Debugging](#-troubleshooting--debugging)
+8. [❓ FAQ](#-faq)
 
 ---
 
